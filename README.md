@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋 I'm Saket Hubballi
 
-<!--
-**saket-hubballi/saket-hubballi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🚀 Learning DSA, Web Dev & Data Science  
+📍 From Belgaum, India  
+💡 Documenting my journey to become a full-stack developer
 
-Here are some ideas to get you started:
+🛠️ Tech I’m currently learning:
+- Java for DSA
+- HTML, CSS, JavaScript, React
+- Python for Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Connect with me:
+- [LinkedIn](https://linkedin.com/in/saket-hubballi)
+- [Email](mailto:sakethubballi2@gmail.com)
+
+💬 “Fall in love with consistency, not results.”
+
